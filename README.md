@@ -1,2 +1,2 @@
 # Linguistic-Text-Steganography-Using-Transformer-Models
-Text Steganography by hiding secret messages within cover plain text to ensure safe secret communication through public channels, implemented using Python.
+This repository contains the implementation of the three stego-systems Steg-GPT2, Steg-BERT and Steg-RoBERTa. Please refer to the research paper uploaded above for further details.
