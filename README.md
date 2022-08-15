@@ -12,5 +12,7 @@ $ pip install -r requirements.txt
 
 # Example Usage
 Enter your cover text: The quick brown fox jumps over the lazy dog.
-Enter secret message: meet me at downtown at 9
+
+Enter secret message: meet me at downtown at 9.
+
 {'stego_text by roBERTa': 'The quick red fox jumps over the poor dog.', 'encoded_message': '010101'}
