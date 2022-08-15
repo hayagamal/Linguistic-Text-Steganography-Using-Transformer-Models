@@ -3,7 +3,8 @@ This repository contains the implementation of the three stego-systems Steg-GPT2
 
 
 # Installation
-$ git clone https://github.com/hayagamal/Linguistic-Text-Steganography-Using-Transformer-Models.git
+
+$ git clone ht<span>tps://</span>github.com/hayagamal/Linguistic-Text-Steganography-Using-Transformer-Models.git
 
 $ cd Linguistic-Text-Steganography-Using-Transformer-Models
 
